@@ -1,0 +1,1 @@
+HAL/STEPPER_cfg.d HAL/STEPPER_cfg.o: ../HAL/STEPPER_cfg.c

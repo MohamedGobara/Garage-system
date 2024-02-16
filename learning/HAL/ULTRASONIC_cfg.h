@@ -1,0 +1,10 @@
+
+
+#ifndef ULTRASONIC_CFG_H_
+#define ULTRASONIC_CFG_H_
+
+
+#define  ULTRASONIC_TOP_TIMER 19999
+
+
+#endif /* ULTRASONIC_CFG_H_ */
